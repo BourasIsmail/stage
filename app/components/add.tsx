@@ -554,6 +554,8 @@ export function Add() {
                             >
                               <option selected>إختر المستوى</option>
                               <option value="إجازة">إجازة</option>
+                              <option value="باكالورية +2">باكالورية +2</option>
+                              <option value="باكالورية +4">باكالورية +4</option>
                               <option value="ماستر">ماستر</option>
                             </select>
                           </div>
